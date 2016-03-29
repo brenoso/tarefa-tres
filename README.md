@@ -8,5 +8,5 @@ Faça os testes de unidade da classe Pizza e verifique se o valor da Pizza está
 
 Faça os testes da classe CarrinhoDeCompras, verificando se o preço das pizzas são somados corretamente e se ele impede a adição de uma pizza sem ingredientes.
 
-Procure criar os testes de forma que cada método de testes verifique um cenário e uma funcionalidade. Evite por exemplo, em um mesmo teste, verificar o preço da pizza e o registro de ingredientes ao mesmo tempo.
+Procure criar os testes de forma que cada método de testes verifique um cenário e uma funcionalidade. Evite por exemplo, em um mesmo teste, verificar o preço da pizza e o registro de ingredientes ao mesmo tempo.</br>
 <b> IDE Eclipse </b>
